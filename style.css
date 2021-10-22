@@ -1,0 +1,45 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-image: url("https://mcdn.wallpapersafari.com/medium/43/12/Vh8dFx.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  font-family: "Oswald", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 500%;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.description-text {
+  color: white;
+  height: 800px;
+  width: 45%;
+  margin: auto;
+  text: justify;
+  text-shadow: 2px 2px 2px black;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: pink;
+  text-decoration: underline;
+}
